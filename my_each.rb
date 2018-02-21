@@ -8,4 +8,6 @@ def my_each(collection) # put argument(s) here
 end
 
 
-my_each(items) { |block_code| puts "Look at this block doing blocky things #{block_code}"}
+my_each(items) do |item|
+  puts item
+end
