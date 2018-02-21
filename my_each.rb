@@ -8,6 +8,6 @@ def my_each(array)
 end
 
 
-my_each(array[i]) {
+my_each() {
   puts "this is a test"
   }
