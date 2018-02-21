@@ -7,7 +7,8 @@ def my_each(array)
   end
 end
 
-
+=begin
 my_each() {
   puts "this is a test"
   }
+=end 
